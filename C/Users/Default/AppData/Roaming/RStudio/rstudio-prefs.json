@@ -1,0 +1,6 @@
+{
+    "check_for_updates": false,
+    "initial_working_directory": "~",
+    "pdf_previewer": "none",
+    "windows_terminal_shell": "win-cmd"
+}
