@@ -1,1 +1,0 @@
-Start-Process "c:\windows\system32\w32tm.exe" -ArgumentList "/resync"

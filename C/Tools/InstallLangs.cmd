@@ -1,1 +1,0 @@
-PowerShell -ExecutionPolicy Bypass -File "%~dp0InstallLangs.ps1"
